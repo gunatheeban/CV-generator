@@ -1,0 +1,14 @@
+/cvGenerator/node_modules
+/cvGenerator/public/hot
+/cvGenerator/public/storage
+/cvGenerator/storage/*.key
+/cvGenerator/vendor
+/cvGenerator/.env
+/cvGenerator/.env.backup
+/cvGenerator/.phpunit.result.cache
+/cvGenerator/Homestead.json
+/cvGenerator/Homestead.yaml
+/cvGenerator/npm-debug.log
+/cvGenerator/yarn-error.log
+/cvGenerator/.idea
+/cvGenerator/.vscode
